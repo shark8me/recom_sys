@@ -1,6 +1,6 @@
 # recsys_assgn1
 
-A Clojure library designed to ... well, that part is up to you.
+Clojure implementation of the first recommender systems class assignment.
 
 ## Usage
 
